@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "simple-oauth2": "^0.2.1",
+    "express": "^4.13.3"
+  }
+}
